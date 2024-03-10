@@ -1,5 +1,5 @@
-const API_KEY="663ba7f6ea4d41748b2d5c7eac525577"
-const url="https://newsapi.org/v2/everything?q="
+const API_KEY=""
+const url=""
 
 //fetch data when the browser window loads 
 
